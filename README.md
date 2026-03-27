@@ -155,3 +155,4 @@ Botda `/admin` buyrug'ini yuboring (faqat ADMIN_IDS da ko'rsatilgan foydalanuvch
 
 Muammo bo'lsa `shopbot.log` faylini tekshiring yoki GitHub'da issue oching.
 # ShopBott
+# ShopBott
